@@ -1,1 +1,1 @@
-Creating a Simple GUI Calculator
+I created this calculator with a simple and interactive GUI
